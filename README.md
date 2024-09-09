@@ -45,8 +45,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name: Joyce Beulah R
-### Register Number: 212222230058
+### Name: Shalini V
+### Register Number: 212222240096
 
 ```python
 import pandas as pd
